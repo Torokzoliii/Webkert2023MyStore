@@ -1,0 +1,21 @@
+{
+  "targets": {
+    "mystore-app-1e0af": {
+      "hosting": {
+        "mystore-app": [
+          "mystore-app-1e0af"
+        ]
+      }
+    },
+    "webkertwebapp": {
+      "hosting": {
+        "mystore-app": [
+          "webkertwebapp"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "webkertwebapp"
+  }
+}
